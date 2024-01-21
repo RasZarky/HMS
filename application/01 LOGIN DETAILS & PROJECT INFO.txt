@@ -1,8 +1,6 @@
-**Log on to codeastro.com for more projects!**
-
 **Database Name: hmsci**
 
-**Developed by John Sokpo**
+**Developed by Abdul Razak Abubakari**
 
 **Recommended PHP version 5.6**
 
